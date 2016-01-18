@@ -1,0 +1,2 @@
+marioWalkingLeft = 0 0 420 95
+marioWalkingRight = 0 96 420 95
